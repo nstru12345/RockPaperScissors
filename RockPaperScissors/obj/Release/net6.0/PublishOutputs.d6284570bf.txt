@@ -1,0 +1,5 @@
+/Users/elizabethboney/Desktop/RockPaperScissors
+/Users/elizabethboney/Desktop/RockPaperScissors.dll
+/Users/elizabethboney/Desktop/RockPaperScissors.deps.json
+/Users/elizabethboney/Desktop/RockPaperScissors.runtimeconfig.json
+/Users/elizabethboney/Desktop/RockPaperScissors.pdb
